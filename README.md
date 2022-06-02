@@ -1,2 +1,2 @@
 # react
-Projeto da disciplina de auditoria web usando react
+Projeto da disciplina de autoria web usando react
